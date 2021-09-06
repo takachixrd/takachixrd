@@ -13,7 +13,7 @@ Hi, my name is Atlas. I started software development 3 year ago with developing 
 ## ⚡ Contact
 
 <div align="center">
-    <a href="https://discord.com/users/851494905771458630" target="_blank"><img src="https://shields.io/badge/Theark-111111.svg?&style=for-the-badge&logo=discord"></a>
+    <a href="https://discord.com/users/851494905771458630" target="_blank"><img src="https://shields.io/badge/Yeagar-111111.svg?&style=for-the-badge&logo=discord"></a>
 </div>
 
 ## 💻 Technologies I Use
