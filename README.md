@@ -6,16 +6,6 @@ Hi, my name is Atlas. I started software development 3 year ago with developing 
     <img src="https://komarev.com/ghpvc/?username=takachixrd&color=dc143c"/>
 </div>
 
-<div align="center">
-    <a href="https://discord.com/users/851494905771458630" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/851494905771458630"></a>
-</div>
-
-## ⚡ Contact
-
-<div align="center">
-    <a href="https://discord.com/users/851494905771458630" target="_blank"><img src="https://shields.io/badge/Takachi-111111.svg?&style=for-the-badge&logo=discord"></a>
-</div>
-
 ## 💻 Technologies I Use
 
 <div align="center">
